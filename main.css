@@ -361,6 +361,9 @@ margin: 5px;
     display: none;
 }
 @media screen and (max-width: 708px){
+    body{
+        font-size: 68px;
+    }
     .icon2 img {
         display: none;
     }
