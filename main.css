@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Exo:wght@100;200&family=Gelasio&family=Josefin+Sans:wght@100&family=Kalam:wght@300&family=Pacifico&family=Playpen+Sans:wght@100&display=swap');
 body{
     background-color: #f9d4fa;
     padding:0;
@@ -362,12 +363,6 @@ margin: 5px;
 }
 @media screen and (max-width: 708px){
     body{
-        font-family: 'Caveat', cursive;
-        font-family: 'Exo', sans-serif;
-        font-family: 'Gelasio', serif;
-        font-family: 'Josefin Sans', sans-serif;
-        font-family: 'Kalam', cursive;
-        font-family: 'Pacifico', cursive;
         font-family: 'Playpen Sans', cursive;
     }
     .icon2 img {
