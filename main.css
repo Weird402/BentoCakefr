@@ -363,11 +363,12 @@ margin: 5px;
 @media screen and (max-width: 708px){
     body{
         font-family: 'Caveat', cursive;
-    font-family: 'Exo', sans-serif;
-    font-family: 'Josefin Sans', sans-serif;
-    font-family: 'Kalam', cursive;
-    font-family: 'Pacifico', cursive;
-    font-family: 'Playpen Sans', cursive;
+        font-family: 'Exo', sans-serif;
+        font-family: 'Gelasio', serif;
+        font-family: 'Josefin Sans', sans-serif;
+        font-family: 'Kalam', cursive;
+        font-family: 'Pacifico', cursive;
+        font-family: 'Playpen Sans', cursive;
     }
     .icon2 img {
         display: none;
