@@ -362,6 +362,7 @@ margin: 5px;
     display: none;
 }
 @media screen and (max-width: 708px){
+    @import url('https://fonts.googleapis.com/css2?family=Caveat&family=Exo:wght@100;200&family=Gelasio&family=Josefin+Sans:wght@100&family=Kalam:wght@300&family=Pacifico&family=Playpen+Sans:wght@100&display=swap');
     body{
         font-family: 'Playpen Sans', cursive;
     }
